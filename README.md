@@ -2,6 +2,7 @@
 Welcome to the Exploding Kitten card game! 🎉 This project is a web-based implementation of the popular card game with a single-player twist.
 
 🧰 Setup Instructions
+
 Prerequisites
 -Go
 -Redis
